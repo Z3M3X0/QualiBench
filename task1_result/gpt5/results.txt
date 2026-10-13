@@ -1,0 +1,59 @@
+Similarity Statistics
+======================================================================
+
+File: Art.jsonl
+Number of entries: 75
+Mean similarity: 0.751074
+Variance: 0.007904
+Standard deviation: 0.088904
+Mean ± Std (%): 75.11 ± 8.89
+----------------------------------------------------------------------
+
+File: Education.jsonl
+Number of entries: 75
+Mean similarity: 0.714681
+Variance: 0.005088
+Standard deviation: 0.071328
+Mean ± Std (%): 71.47 ± 7.13
+----------------------------------------------------------------------
+
+File: Finance.jsonl
+Number of entries: 75
+Mean similarity: 0.667317
+Variance: 0.011445
+Standard deviation: 0.106980
+Mean ± Std (%): 66.73 ± 10.70
+----------------------------------------------------------------------
+
+File: Law.jsonl
+Number of entries: 75
+Mean similarity: 0.703179
+Variance: 0.007452
+Standard deviation: 0.086325
+Mean ± Std (%): 70.32 ± 8.63
+----------------------------------------------------------------------
+
+File: Medicine.jsonl
+Number of entries: 75
+Mean similarity: 0.698822
+Variance: 0.003211
+Standard deviation: 0.056669
+Mean ± Std (%): 69.88 ± 5.67
+----------------------------------------------------------------------
+
+File: Sustainability.jsonl
+Number of entries: 75
+Mean similarity: 0.734670
+Variance: 0.006560
+Standard deviation: 0.080991
+Mean ± Std (%): 73.47 ± 8.10
+----------------------------------------------------------------------
+
+File: Technology.jsonl
+Number of entries: 78
+Mean similarity: 0.753410
+Variance: 0.003071
+Standard deviation: 0.055420
+Mean ± Std (%): 75.34 ± 5.54
+----------------------------------------------------------------------
+
